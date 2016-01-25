@@ -1,2 +1,2 @@
-# uexSina
-新浪微博插件
+# uexImageTag_multi_image
+uexImageTag插件同时打开多张图片扩展
